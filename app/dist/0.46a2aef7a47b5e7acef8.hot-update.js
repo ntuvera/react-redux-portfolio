@@ -1,0 +1,16 @@
+webpackHotUpdate(0,{
+
+/***/ "./app/src/index.js":
+/* no static exports found */
+/* all exports used */
+/*!**************************!*\
+  !*** ./app/src/index.js ***!
+  \**************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/react.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nvar _reactRedux = __webpack_require__(/*! react-redux */ \"./node_modules/react-redux/es/index.js\");\n\nvar _App = __webpack_require__(/*! ./components/App */ \"./app/src/components/App.jsx\");\n\nvar _App2 = _interopRequireDefault(_App);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// import configureStore from './store/config';\n\n// import './styles/main.scss';\n\n// import { Router, Route, browserHistory } from 'react-router';\n// import { syncHistoryWithStore } from 'react-router-redux';\n\n// const store = configureStore();\n// const history = syncHistoryWithStore(browserHistory, store);\n\n_reactDom2.default.render(_react2.default.createElement(\n    _reactRedux.Provider,\n    { store: store },\n    _react2.default.createElement(\n        'div',\n        { className: 'main-app' },\n        _react2.default.createElement(\n            'h2',\n            null,\n            'React Dom'\n        ),\n        _react2.default.createElement(_App2.default, null)\n    )\n), document.getElementById('root'));//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9hcHAvc3JjL2luZGV4LmpzLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9zcmMvaW5kZXguanM/ZTE0ZCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xuaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7XG5pbXBvcnQgeyBQcm92aWRlciB9IGZyb20gJ3JlYWN0LXJlZHV4JztcbmltcG9ydCBBcHAgZnJvbSAnLi9jb21wb25lbnRzL0FwcCc7XG4vLyBpbXBvcnQgY29uZmlndXJlU3RvcmUgZnJvbSAnLi9zdG9yZS9jb25maWcnO1xuXG4vLyBpbXBvcnQgJy4vc3R5bGVzL21haW4uc2Nzcyc7XG5cbi8vIGltcG9ydCB7IFJvdXRlciwgUm91dGUsIGJyb3dzZXJIaXN0b3J5IH0gZnJvbSAncmVhY3Qtcm91dGVyJztcbi8vIGltcG9ydCB7IHN5bmNIaXN0b3J5V2l0aFN0b3JlIH0gZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4JztcblxuLy8gY29uc3Qgc3RvcmUgPSBjb25maWd1cmVTdG9yZSgpO1xuLy8gY29uc3QgaGlzdG9yeSA9IHN5bmNIaXN0b3J5V2l0aFN0b3JlKGJyb3dzZXJIaXN0b3J5LCBzdG9yZSk7XG5cblJlYWN0RE9NLnJlbmRlcihcbiAgICA8UHJvdmlkZXIgc3RvcmU9e3N0b3JlfT5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJtYWluLWFwcFwiPlxuICAgICAgICAgICAgPGgyPlJlYWN0IERvbTwvaDI+XG4gICAgICAgIDxBcHAvPlxuICAgICAgICA8L2Rpdj5cbiAgICA8L1Byb3ZpZGVyPixcblx0ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKVxuKVxuXG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIGFwcC9zcmMvaW5kZXguanMiXSwibWFwcGluZ3MiOiI7O0FBQUE7QUFDQTs7O0FBQUE7QUFDQTs7O0FBQUE7QUFDQTtBQUFBO0FBQ0E7Ozs7O0FBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQUE7QUFDQTtBQUFBO0FBQUE7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFGQTtBQURBIiwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./app/src/index.js\n");
+
+/***/ })
+
+})
