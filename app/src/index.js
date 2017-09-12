@@ -15,7 +15,6 @@ const store = configureStore();
 ReactDOM.render(
     <Provider store={store}>
         <div className="main-app">
-            <h2>React Dom</h2>
         <App/>
         </div>
     </Provider>,

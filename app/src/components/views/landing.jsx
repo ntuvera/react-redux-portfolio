@@ -6,8 +6,17 @@ import { connect } from 'react-redux';
     };
 })
 
+
 export default class LandingPage extends Component {
+
     render() {
+
+      let bannerBackground = 'assets/images/screenshot_banner.png';
+      let backgroundStyle = {
+            backgroundImage: `url(${bannerBackground})`, 
+            height: 250
+      };
+
         // const userLoading = false;
         
         // if (!this.loggedIn()) return <Landing/>;
@@ -16,8 +25,9 @@ export default class LandingPage extends Component {
         // // else return (<Spinner />);
       return (
         <div className="Landing-page">
-            <h2>insert image here</h2>
+            <h2 style={ backgroundStyle }></h2>
         </div>
         );
     }
+
 }
