@@ -32,8 +32,9 @@ module.exports = {
             "unix"
         ],
         "quotes": [
-            "warn",
-            "single"
+            "error",
+						"single",
+						{ "allowTemplateLiterals": true }
         ],
         "semi": [
             "warn",

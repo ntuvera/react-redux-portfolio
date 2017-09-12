@@ -17,7 +17,7 @@ export default class AboutPage extends Component {
 	// };
 
 		let lazyStyle = {
-			'margin-top': 40
+			'marginTop': 40
 		};
 
 		return (

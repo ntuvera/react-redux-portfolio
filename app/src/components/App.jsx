@@ -17,9 +17,8 @@ export default class App extends Component {
 	render() {
 		return (
 			<div className='holder-of-things'>
-				<hr/>
-				<h1>Nate Tuvera</h1>
 				<NavBar />
+				<hr/>
 				<LandingPage />
 				<AboutPage />
 				<ContactPage />
