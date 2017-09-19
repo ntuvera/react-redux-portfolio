@@ -1,1 +1,3 @@
 .DS_Store
+*.hot-update.json
+*.hot-update.js
